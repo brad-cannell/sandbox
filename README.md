@@ -10,9 +10,9 @@ Just a sandbox for playing around...
 Vignettes:
 ----------
 
-[Here is some info about links in markup files.](https://github.com/blog/1395-relative-links-in-markup-files)
+[Here is some info about links in markup files.](https://github.com/blog/1395-relative-links-in-markup-files) [An SO page about rendering html files in Github](http://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview)
 
-[My Test Vignette](my-vignette.Rmd)
+[My Test Vignette Relative Link](mbcann01/sandbox/vignettes/my-vignette.html)
 
 #### Installation instructions:
 
