@@ -16,6 +16,10 @@ Vignettes:
 
 [My Test Vignette Relative Link](vignettes/my-vignette.html)
 
+[My Test Vignette GitHub HTML Prview](http://htmlpreview.github.com/?https://github.com/mbcann01/sandbox/blob/master/vignettes/my-vignette.html)
+
+[My Test Vignette RawGit link](https://rawgit.com/mbcann01/sandbox/master/vignettes/my-vignette.html)
+
 #### Installation instructions:
 
 All files can be viewed directly on Github. To install this package locally, simply use `devtools`:
