@@ -10,9 +10,9 @@ Just a sandbox for playing around...
 Vignettes:
 ----------
 
-<a href = "https://github.com/blog/1395-relative-links-in-markup-files" target = "_blank">Here is some info about links in markup files.</a>
+[Here is some info about links in markup files.](https://github.com/blog/1395-relative-links-in-markup-files)
 
-<a href = "my-vignette.html" target = "_blank">My Test Vignette</a>
+[My Test Vignette](my-vignette.Rmd)
 
 #### Installation instructions:
 
