@@ -19,6 +19,8 @@ knitr::opts_chunk$set(
 ## Purpose:
 Just a sandbox for playing around...
 
+[My notes on making packages](https://rawgit.com/mbcann01/sandbox/master/getting_started.html)
+
 ## Vignettes:
 
 [Here is some info about links in markup files.](https://github.com/blog/1395-relative-links-in-markup-files)   

@@ -7,6 +7,8 @@ Purpose:
 
 Just a sandbox for playing around...
 
+[My notes on making packages](https://rawgit.com/mbcann01/sandbox/master/getting_started.html)
+
 Vignettes:
 ----------
 
