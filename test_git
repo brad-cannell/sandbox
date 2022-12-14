@@ -7,3 +7,7 @@ Later, I will "accidentally" commit with some fake data to the repository.
 # Multiple commits, pushed to GitHub
 
 Let's add one more wrinkle to this scenario. Let's send multiple commits to GitHub and see if we can remove any trace of the test data by simply adding it to `.gitignore` and pushing it up to GitHub.
+
+A second change to test_git.
+
+A third change to test_git.
