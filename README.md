@@ -29,6 +29,6 @@ All files can be viewed directly on Github. To install this package locally, sim
 ``` r
 library(devtools)
 devtools::install_github("mbcann01/sandbox")
-library(detectPilotTest)
+library(sandbox)
 browseVignettes("sandbox")
 ```
